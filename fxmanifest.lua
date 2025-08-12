@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Développeur'
+author 'tom2440'
 description 'Système de verrouillage de véhicules NPC avec crochetage synchronisé'
 version '1.0.0'
 
